@@ -1,2 +1,2 @@
 # BLOG
-We will update our programm everweek!
+We will update our project everweek!
