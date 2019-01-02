@@ -1,2 +1,2 @@
 # BLOG
-We will update our project everweek!
+We will update our project everyweek!
