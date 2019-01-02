@@ -2,4 +2,4 @@
 We will update our project here!
 
 
-Developed by clever Gary, great Levy, and lazy Mark!
+Developed by lazy Gary, great Levy, and clever Mark!
